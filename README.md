@@ -38,7 +38,7 @@ This is a console-based application developed in **C++** that allows users to ma
 - Roll number must be a **4-digit number**
 - Uses `cin.ignore()` to clear buffer before reading full names
 - Validates file operations with safety checks
-![Student Record Management Flow](https://github.com/vishalx05/FeesManagementSystem_CPP.git/blob/main/include_bits_stdc++.h_ - visual selection (1).png?raw=true)
+![Student Record Management Flow](https://github.com/vishalx05/FeesManagementSystem_CPP.git/main/include_bits_stdc++.h_ - visual selection (1).png?raw=true)
 
 ## 🚀 How to Run
 
